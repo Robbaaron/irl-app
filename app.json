@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "IRL Color",
+    "slug": "irl-color",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#FAFAF8"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.irlcolor.app"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#FAFAF8"
+      },
+      "package": "com.irlcolor.app"
+    }
+  }
+}
